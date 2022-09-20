@@ -1,0 +1,22 @@
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.page-header {
+    min-height: 75px;
+    width: 100%;
+    background-color: rgb(56, 55, 55);
+    display: flex;
+    align-items: center;
+}
+
+
+.products {
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.buy-btn {
+    width: 100%;
+}   
